@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "leetcode-solutions",
     targets: [
-        .executableTarget(name: "leetcode-solutions"),
+        .executableTarget(name: "leetcode-solutions")
     ]
 )
 
